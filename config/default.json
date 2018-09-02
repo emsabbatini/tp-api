@@ -3,6 +3,7 @@
         "host": "localhost",
         "user": "root",
         "pass": "ems8416",
-        "db": "talentplaydb"
+        "db": "talentplaydb",
+        "port": 3306
     }
 }

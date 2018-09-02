@@ -3,6 +3,7 @@
         "host": "talentplaydb.ctob9azrwxzv.us-west-2.rds.amazonaws.com",
         "user": "root",
         "pass": "TalentPlay123$",
-        "db": "talentplaydb"
+        "db": "talentplaydb",
+        "port": 3306
     }
 }
