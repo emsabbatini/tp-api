@@ -1,8 +1,8 @@
 {
     "db": {
-        "host": "localhost",
+        "host": "talentplaydb.ctob9azrwxzv.us-west-2.rds.amazonaws.com",
         "user": "root",
-        "pass": "ems8416",
-        "db": "talentplay"
+        "pass": "TalentPlay123$",
+        "db": "talentplaydb"
     }
 }
